@@ -1,6 +1,6 @@
 # DALL-E_Dreamer
 
-DALL·E Dreamer is an AI-powered image generation application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This app allows users to generate creative images from text prompts by leveraging OpenAI's DALL·E model. The generated images are hosted on Cloudinary and can be viewed and managed through a user-friendly interface.
+**DALL·E Dreamer** is an AI-powered image generation application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). This app allows users to generate creative images from text prompts by leveraging OpenAI's DALL·E model. The generated images are hosted on Cloudinary and can be viewed and managed through a user-friendly interface.
 
 Key Features:
 Text to Image Generation: Users can input prompts, and DALL·E Dreamer will generate corresponding images based on those prompts.
